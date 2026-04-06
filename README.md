@@ -98,15 +98,9 @@ Use Postman to test APIs.
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 *Add screenshots of API responses or architecture diagrams here*
-
----
-
-## 🌐 Live Demo
-
-🚧 Coming Soon...
 
 ---
 
@@ -134,6 +128,4 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 ---
 
-## 📜 License
 
-This project is open-source and available under the MIT License.
