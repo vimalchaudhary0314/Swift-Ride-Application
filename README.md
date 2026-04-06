@@ -9,7 +9,6 @@ A scalable backend system for a ride-booking platform built using **Java, Spring
 * 🚗 Ride Booking & Matching System
 * 👤 User & Driver Management
 * 📍 Trip Tracking & History
-* ⚡ Scalable Microservices Architecture
 * 🛡️ Secure REST APIs using Spring Security
 
 ---
@@ -49,8 +48,8 @@ Each service is independently deployable and communicates via REST APIs.
 
 | Method | Endpoint       | Description         |
 | ------ | -------------- | ------------------- |
-| POST   | /auth/register | Register new user   |
-| POST   | /auth/login    | Authenticate user   |
+| POST   | /register      | Register new user   |
+| POST   | /login         |user   |
 | GET    | /rides         | Get available rides |
 | POST   | /rides/book    | Book a ride         |
 | GET    | /trips/history | Get trip history    |
@@ -94,9 +93,6 @@ mvn spring-boot:run
 
 Use Postman to test APIs.
 
-👉 Add your Postman Collection link here
-
----
 
 
 ## 📈 Future Enhancements
