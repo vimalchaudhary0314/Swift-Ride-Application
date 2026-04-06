@@ -98,11 +98,6 @@ Use Postman to test APIs.
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of API responses or architecture diagrams here*
-
----
 
 ## 📈 Future Enhancements
 
